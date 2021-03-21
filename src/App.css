@@ -1,0 +1,24 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: #ccf2f4;
+    width: 500px;
+    border-radius: 10%;
+    margin: 150px 300px;
+}
+.Full {
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+}
+
+.prof {
+    margin: 10px;
+    width: 250px;
+    border: 2px solid transparent;
+}
+.Addr {
+    font-size: 15px;
+    font-family: "Roboto", sans-serif;
+}
